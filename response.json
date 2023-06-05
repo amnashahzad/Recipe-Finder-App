@@ -1,0 +1,77 @@
+{
+    "recipes": [
+      {
+        "title": "Spaghetti Bolognese",
+        "ingredients": [
+          "500g ground beef",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "400g canned tomatoes",
+          "2 tablespoons tomato paste",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "Salt and pepper to taste",
+          "250g spaghetti"
+        ],
+        "instructions": [
+          "In a large pan, cook the ground beef until browned. Add the onion and garlic, and cook until softened.",
+          "Add the canned tomatoes, tomato paste, oregano, basil, salt, and pepper. Simmer for 20 minutes, stirring occasionally.",
+          "Meanwhile, cook the spaghetti according to package instructions. Drain and set aside.",
+          "Serve the Bolognese sauce over the cooked spaghetti. Enjoy!"
+        ]
+      },
+      {
+        "title": "Chicken Stir-Fry",
+        "ingredients": [
+          "2 chicken breasts, sliced",
+          "1 bell pepper, sliced",
+          "1 carrot, sliced",
+          "1/2 cup broccoli florets",
+          "2 tablespoons soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon sesame oil",
+          "1 tablespoon vegetable oil",
+          "1 clove garlic, minced",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a wok or large pan, heat the vegetable oil over high heat. Add the chicken and stir-fry until cooked through. Remove from the pan and set aside.",
+          "In the same pan, add the garlic and stir-fry for 1 minute. Add the bell pepper, carrot, and broccoli. Stir-fry for another 2-3 minutes until the vegetables are tender-crisp.",
+          "Return the cooked chicken to the pan. Add the soy sauce, oyster sauce, sesame oil, salt, and pepper. Stir-fry for another 1-2 minutes until everything is well combined and heated through.",
+          "Serve the chicken stir-fry over rice or noodles. Enjoy!"
+        ]
+      },
+      {
+        "title": "Chicken Biryani",
+        "ingredients": [
+          "Rice 1kg",
+          "Chicken 1kg",
+          "Lahson adrak 3tbs",
+          "Namak 2tbs",
+          "Lal Mirch 1tbs",
+          "Zeera powder 1tbs",
+          "Dhaniya powder 1tbs",
+          "Chat masala 2tbs",
+          "Taz pat 2",
+          "Dalchini 3",
+          "Long 8",
+          "Kali elichi 4",
+          "Star flower 3",
+          "Jaifal 1/2tsp",
+          "Javitri 1/2tsp",
+          "Peyaz 2",
+          "Heri mirch 4",
+          "Lemon slice 10",
+          "Podena 1bunch",
+          "Temater slice 20",
+          "Yello food color",
+          "Yought 250gm"
+        ],
+        "instructions": [
+          "Make a mixture with tomato yoghurt, puree, green chilli paste, ginger garlic paste, red chilli powder, roasted cumin powder, turmeric powder, garam masala powder, coriander powder and salt Take the chicken and marinade it in the same mixture. Let it rest for 3-4 hours Put oil in a pan, heat it and fry onions till they turn golden brown Now, to this add the marinated chicken and cook the entire mixture for 10 mints After that in a pressure cooker, take the rice and add 3 1/2 cups of water to it. Also, take the saffron, mix with the milk and add to the rice Lastly, add the cardamom powder and the chicken pieces, along with the marinade Mix all the ingredients gently, cover with the cooker lid and pressure cook for 1 whistle Your tasty chicken biryani recipe is ready now"
+        ]
+      }
+    ]
+    
+  }
+  
